@@ -1,6 +1,6 @@
-package com.max_douglass.inference_gateway.core;
+package com.maxdouglass.inferencegateway.core;
 
-import com.max_douglass.inference_gateway.api.InferenceRequest;
+import com.maxdouglass.inferencegateway.api.InferenceRequest;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

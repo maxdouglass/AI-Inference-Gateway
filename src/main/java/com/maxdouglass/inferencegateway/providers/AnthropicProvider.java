@@ -1,7 +1,6 @@
-package com.max_douglass.inference_gateway.providers;
+package com.maxdouglass.inferencegateway.providers;
 
-import com.max_douglass.inference_gateway.api.InferenceRequest;
-import com.max_douglass.inference_gateway.providers.Provider;
+import com.maxdouglass.inferencegateway.api.InferenceRequest;
 
 import java.util.List;
 
