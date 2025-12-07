@@ -5,7 +5,7 @@ import com.max_douglass.inference_gateway.providers.Provider;
 
 import java.util.List;
 
-public class AnthropicProvider implements Provider{
+public class OpenAiProvider implements Provider {
 
     @Override
     public Object inferBatch(List<InferenceRequest> requests){

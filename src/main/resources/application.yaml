@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+llm:
+  provider: openai
+
+  openai:
+    apiKey: ${OPENAI_API_KEY:}
+    model: gpt-4o-mini
+
+  anthropic:
+    apiKey: ${ANTHROPIC_API_KEY:}
+    model: claude-3-haiku
