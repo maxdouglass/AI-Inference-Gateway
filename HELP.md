@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.max-douglass.inference-gateway' is invalid and this project uses 'com.max_douglass.inference_gateway' instead.
+* The original package name 'com.max-douglass.inference-gateway' is invalid and this project uses 'com.max_douglass.inferencegateway' instead.
 
 # Getting Started
 

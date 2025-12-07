@@ -1,4 +1,4 @@
-package com.max_douglass.inference_gateway.api;
+package com.maxdouglass.inferencegateway.api;
 
 import java.util.Map;
 

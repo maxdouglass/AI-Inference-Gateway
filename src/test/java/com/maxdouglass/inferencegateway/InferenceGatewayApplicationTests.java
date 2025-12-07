@@ -1,4 +1,4 @@
-package com.max_douglass.inference_gateway;
+package com.maxdouglass.inferencegateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,5 +9,4 @@ class InferenceGatewayApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
